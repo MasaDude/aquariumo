@@ -1,0 +1,133 @@
+.logo {
+    border-radius: 50%;
+    width: 6rem;
+    height: 4rem;
+
+}
+.nav {
+    
+    background-color: #38403f;
+    height: 4.5rem;
+    align-items: center;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+    
+}
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+    list-style: none;
+}
+ .nav ul a {
+     text-decoration: none;
+     list-style: none;
+     justify-content: space-between;
+     color: #fff;
+     padding: 3rem;
+     font-family: 'Noto Sans KR', sans-serif;
+
+ }
+ .nav ul li a:hover {
+     color: white;
+     background-color: rgb(11, 208, 235);
+     border-radius: 5px;
+     
+ }
+ h3 {
+     font-family: 'Noto Sans KR', sans-serif;
+     text-align: center;
+
+ }
+ .aqua {
+     text-decoration-style: wavy;
+     text-decoration-line: underline;
+     text-decoration-color: #ffffff;
+     text-shadow: solid black; 
+     font-family: 'Lobster', cursive;
+     text-align: center;
+ }
+ h4 {
+     font-family: 'Noto Sans KR', sans-serif;
+     font-weight: bolder;
+     color: black;
+     text-align: center;
+ }
+ .bigaquarium {
+     width: 30rem;
+     height: 15rem;
+     border-radius: 5px;
+     box-shadow: 0 4px 8px 0 , 0 6px 20px 0 ;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+ }
+ .baqua {
+     font-family: 'Noto Sans KR', sans-serif;
+     font-weight: bolder;
+     color: black;
+     text-align: center;
+ }
+ .text-primary {
+     color: #eb2a15;
+     text-align: center;
+     font-size: large;
+ }
+ .smaquarium {
+     width: 15rem;
+     height: 20rem;
+     border-radius: 5px;
+     box-shadow: 0 4px 8px 0 , 0 6px 20px 0;
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+     align-items: center;
+ }
+ .ssa {
+     background:  url(../Aquariums/2021-08-13\ \(4\).png) no-repeat center center/cover;
+     height: 240px;
+     color: white;
+ }
+ .overlay {
+     background-color: rgba(0, 0, 0, 0.5);
+     height: 240px;
+ }
+ .classifynote {
+     color: rgb(11, 208, 235);
+ }
+ .abaq {
+     background-color: rgb(11, 208, 235);
+ }
+ .baqa {
+     font-family: 'Noto Sans KR', sans-serif;
+     color: black;
+     font-weight: bolder;
+     font-size: x-large;
+     text-align: center;
+
+ }
+ .ah1 {
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-shadow: solid black; 
+    font-family: 'Lobster', cursive;
+    text-align: center;
+
+ }
+ .foot {
+     background: url(../Aquariums/2021-08-13\ \(4\).png) no-repeat center center/cover;
+     
+ }
+ .aloosh {
+     background-color: rgba(0, 0, 0, 0.5);
+ }
+ 
+
+
